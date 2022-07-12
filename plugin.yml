@@ -1,0 +1,59 @@
+name: ExtremeCMDS
+version: 1.0
+main: me.kebab.ExtremeCMDS.ExtremeCMDS
+commands:
+  medic:
+    description: Heals a player!
+  server:
+    description: Broadcasts a message to the server!
+  eat:
+    description: Feeds a player!
+  mode:
+    description: Change your gamemode!
+  locate:  
+    description: Locate a player!
+  MaxHealth:
+    description: Set yours/a players maxhealth!
+  goto:
+    description: Teleport to a player!
+  gohere:
+    description: Teleports a player to you!
+  goall:
+    description: Teleports all players to you!
+  sweepinventory:
+    aliases: sw
+    description: Sweeps your inventory!
+  Armor:
+    description: Gives you armor!
+  getip:
+    description: Gets the IP of an online player!
+  rename:
+    description: Renames an item!!
+  addlore:
+    description: Adds lore to an item!
+  murder:
+    description: Kills a player!
+  expel:
+    description: Ban a player!
+  boot:
+    description: Kick a player from the game!
+  unexpel:
+    description: Unban a player!
+  nickname:
+    aliases: nick
+    description: Change your displayname!
+  sethome:
+    description: Set a home!
+  home:
+    description: Teleport to home!
+  msg:
+    description: Message a player!
+  object:
+    aliases: o
+    description: Give yourself an Item!
+  motd:
+    description: Displays the Message of the Day!
+  freeze:
+    description: Freezes a player!
+  unfreeze:
+    description: Unfreezes a player!
